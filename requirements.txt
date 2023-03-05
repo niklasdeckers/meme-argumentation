@@ -2,3 +2,5 @@ clip-retrieval
 scikit-image
 git+https://github.com/openai/CLIP.git
 torch
+Pillow
+pytesseract
